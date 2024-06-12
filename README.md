@@ -1,3 +1,4 @@
+<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqZmRoY2NkZWU0b2dlMGh0MnpzY2NzcHpmaXFoYXgwZDh5dnhtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
 <h1>Hi i am Jonathan Jaime🚀</h1>
 <hr>
 <h2>Front End developer💻</h2>
